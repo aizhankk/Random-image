@@ -1,0 +1,36 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  outline: none;
+}
+
+
+.img{
+  width: 700px;
+  height: 500px;
+  align-items: center;
+}
+
+
+.cont{
+  min-height: 100vh;
+  display: grid;
+  place-items: center;
+  padding-bottom: 60px;
+  background-position: center;
+  align-items: center;
+  text-align: center;
+}
+
+#but{
+  cursor: pointer;
+  height: 50px;
+  width: 200px;
+  color: white;
+  background-color: black;
+
+}
+
+
+
